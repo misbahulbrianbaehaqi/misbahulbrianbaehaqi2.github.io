@@ -64,7 +64,7 @@ header ul li a:hover{
 
 .banner {
 	height:60vh;
-	background-image: url('../img/KotaSurabaya.jpg');
+	background-image: url("img/KotaSurabaya.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
